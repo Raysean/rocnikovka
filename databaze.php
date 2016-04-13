@@ -21,7 +21,7 @@ class databaze{
     }
     
     /**
-     * 
+     *   Funkce pro výpis dat z databáze do tabulky
      */
     static function showDatabase()
     {
